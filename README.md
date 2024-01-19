@@ -8,4 +8,5 @@
  --linear search <br/>
  --union of two array<br/>
  --Number that appear only one in arrar<br/>
- 
+ --maximum consecutive zero in array<br/>
+ --missing number <br/> 
