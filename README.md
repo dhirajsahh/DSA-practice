@@ -10,3 +10,4 @@
  --Number that appear only one in arrar<br/>
  --maximum consecutive zero in array<br/>
  --missing number <br/> 
+ --Next permutation <br/>
