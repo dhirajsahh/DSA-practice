@@ -11,3 +11,5 @@
  --maximum consecutive zero in array<br/>
  --missing number <br/> 
  --Next permutation <br/>
+ --Swap alternate <br/>
+ --unique element<br/>
