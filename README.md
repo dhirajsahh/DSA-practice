@@ -13,3 +13,5 @@
  --Next permutation <br/>
  --Swap alternate <br/>
  --unique element<br/>
+ # BinarySearch
+   --first and last postion of element<br/>
