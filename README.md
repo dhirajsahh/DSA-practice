@@ -15,3 +15,4 @@
  --unique element<br/>
  # BinarySearch
    --first and last postion of element<br/>
+   --peak element
